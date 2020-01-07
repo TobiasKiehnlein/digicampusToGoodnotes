@@ -1,0 +1,12 @@
+{
+  "to": "recipients email address",
+  "username": "username",
+  "password": "*********",
+  "blacklist": [
+    "insert keys",
+    "(if the document name or the course name includes one of these they will not be imported)"
+  ],
+  "debug": false,
+  "out": "downloads",
+  "chunkSize": 4096
+}
